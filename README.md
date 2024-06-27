@@ -43,7 +43,8 @@ Discover how AI can be a transformative tool in your profession. This book focus
 
 ## Resources
 
-* [Tools](Tools.md)
+* [AI Engineering Tools](AI_Engineering_Tools.md)
+* [Generative AI Tools](Gen_AI_Tools.md)
 * [Trends](Trends.md)
 
 ## Connect with the Author
