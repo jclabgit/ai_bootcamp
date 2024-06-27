@@ -12,7 +12,8 @@ Start with a solid understanding of AI principles and practices. This book cover
 
 ### Get Your a Copy
 
-* **Amazon:** [Link to your eBook's Amazon page] 
+* ** [Amazon]**(https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
+
 
 
 ## 2. Generative AI and Prompts: Unlocking Value Creation In the  Age of Artificial Intelligence
@@ -24,7 +25,8 @@ Dive deeper into the world of generative AI, where you'll learn about prompt eng
 
 ### Get Your Copya
 
-* **Amazon:** [Link to your eBook's Amazon page] 
+* ** [Amazon]**(https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
+
 
 
 
@@ -37,7 +39,7 @@ Discover how AI can be a transformative tool in your profession. This book focus
 
 ### Get Your a Copy
 
-* **Amazon:** [Link to your eBook's Amazon page] 
+* ** [Amazon]**(https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
 
 
 
