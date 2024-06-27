@@ -48,8 +48,8 @@ Discover how AI can be a transformative tool in your profession. This book focus
 
 ## Connect with the Author
 
-* [https://twitter.com/jayelckcares](X or Twitter)
-* [https://buymeacoffee.com/jayelckcares](Website)
+* [X or Twitter](https://twitter.com/jayelckcares)
+* [Website](https://buymeacoffee.com/jayelckcares)
 
 ---
 
