@@ -10,7 +10,7 @@ Start with a solid understanding of AI principles and practices. This book cover
 <br> 
 <img src="1.jpg" width="200"></img>
 
-* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
+* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) Or [Attend The Course](https://www.udemy.com/course/ai-foundations-for-everyone) 
 
 
 
@@ -22,7 +22,7 @@ Dive deeper into the world of generative AI, where you'll learn about prompt eng
 <img src="2.jpg" width="200"></img>
 
 
-* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
+* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) Or [Attend The Cour    se](https://www.udemy.com/course/ai-foundations-for-everyone) 
 
 
 
@@ -34,7 +34,7 @@ Discover how AI can be a transformative tool in your profession. This book focus
 <br> 
 <img src="3.jpg" width="200"></img>
 
-* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) 
+* [Get a Copy](https://www.amazon.com/dp/B0D84TY9BY?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tkin) Or [Attend The Cour    se](https://www.udemy.com/course/ai-foundations-for-everyone) 
 
 
 
