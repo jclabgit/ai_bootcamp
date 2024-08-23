@@ -15,9 +15,10 @@ This list covers major components essential for AI engineering, including Data E
 ## A. Data Engineering
 
 ### 1 Data Collection 
-  - Agents: Collect data from various sources.
+  - Agents: Collect data from various sources, deployment and management
   - APIs: Interface for accessing and retrieving data programmatically.
   - Syslog: Standard for message logging from various systems.
+
   
 ### 2 Data Ingestion
   - Parsing: Breaking down data into usable parts.
@@ -27,7 +28,8 @@ This list covers major components essential for AI engineering, including Data E
   - Data Pipeline Development: Automating data flow from source to destination.
   
 ### 3 Data Management
-  - Storage (Snapshots): Regular backups of data for recovery and analysis.
+  - Onboarding and multitenancy(by document, by index, by cluster)
+  - Storage (Snapshots): Regular data backups for recovery and analysis.
   - Modeling/Indexing: Structuring data for efficient querying and retrieval.
   - Retention: Managing data lifecycle and retention policies.
   - Fast Search API: Enabling quick and efficient data searches.
@@ -72,7 +74,7 @@ This list covers major components essential for AI engineering, including Data E
 - **AutoML MLOps**: Using AutoML libraries and tools (e.g., local, Apple, AWS Sagemaker) to automate model development and deployment.
 
 ### 2. Monitoring
-- Continuous monitoring of model performance and data drift to ensure accuracy and reliability.
+- Monitor model performance and data drift to ensure accuracy and reliability.
 
 ### 3. Logging
 - Comprehensive logging of model predictions, performance metrics, and system events for debugging and analysis.
@@ -99,7 +101,7 @@ This list covers major components essential for AI engineering, including Data E
 - **Container Management**: 
   - Docker: Standard tool for containerizing applications.
 - **Container Image Registry**: 
-  - AWS ECR: Managed Docker container registry service by AWS.
+  - AWS ECR: AWS manages the Docker container registry service.
 - **Container Orchestration**: 
   - Docker Swarm: Native clustering and scheduling tool for Docker containers.
   - Kubernetes: Powerful orchestration tool for managing containerized applications at scale.
@@ -110,17 +112,17 @@ This list covers major components essential for AI engineering, including Data E
   - Ansible: Automation tool for configuration management, application deployment, and task automation.
 - **Infrastructure as Code**: 
   - Ansible: Also used for managing infrastructure.
-  - Python: For scripting and automating infrastructure tasks.
+  - Python: This is for scripting and automating infrastructure tasks.
   
 
 
 ## F. Cloud Computing
 
-Cloud computing offers a plethora of benefits, including scalability, accessibility to vast computational resources, and specialized services tailored for AI development and deployment. This guide aims to provide AI engineers with a comprehensive overview of essential cloud computing concepts and practices.
+Cloud computing offers many benefits, including scalability, accessibility to vast computational resources, and specialized services tailored for AI development and deployment. This guide aims to provide AI engineers with a comprehensive overview of essential cloud computing concepts and practices.
 
 ### 1 - Define IAM for Your Organization
 
-As an AI engineer embarks on their cloud journey, one of the foundational steps is to establish Identity and Access Management (IAM). IAM allows administrators to authorize specific actions on resources, enabling centralized control and visibility over cloud resources.
+As an AI engineer embarks on their cloud journey, one foundational step is establishing Identity and Access Management (IAM). IAM allows administrators to authorize specific actions on resources, enabling centralized control and visibility over cloud resources.
 
 - Azure: [Azure IAM](https://azure.microsoft.com/en-us/product-categories/identity/)
 - AWS: [AWS IAM](https://aws.amazon.com/iam/)
@@ -128,11 +130,11 @@ As an AI engineer embarks on their cloud journey, one of the foundational steps 
 
 ###  2 - Define a Network or VPC for Each Region or Site
 
-VPC defines subnets, gateways, and DNS settings. This is needed before VM instances and Load balancing instance. There is no additional charge for using Virtual Private Cloud, aside from the normal VM usage charges. But there is a charge if connecting Own VPN toyour VPC. A VPC is need before a load-balancer, EC2 instances, and other cloud resources.
+VPC defines subnets, gateways, and DNS settings. It is needed before VM instances and Load balancing instances. Aside from the normal VM usage charges, there is no additional charge for using Virtual Private Cloud. However, there is a charge for connecting your own VPN to your VPC. A VPC is needed before a load balancer, VM instances, and other cloud resources.
 
 ###  3 - Define Availability Zones or Rack
 
-An availability zone is a logical data center in a region available for use. Each zone in a region has redundant and separate power, networking and connectivity to reduce the likelihood of two zones failing simultaneously. A common misconception is that a single zone equals a single data center.
+An availability zone is a logical data center in a region that is available for use. Each zone has redundant and separate power, networking, and connectivity to reduce the likelihood of two zones failing simultaneously. A common misconception is that a single zone equals a single data center.
 
 ###  4 - Load-Balance Your Availability Zones
 
@@ -140,16 +142,16 @@ An availability zone is a logical data center in a region available for use. Eac
 
 ###  5 - Control Access to Each VPC 
 
-- Use Security groups to control access to computing instances. This is stateful: return traffic automatically allowed, regardless of any rules.
+- Use Security groups to control access to computing instances. This is stateful: return traffic is automatically allowed, regardless of any rules.
 - Use network ACLs to control access to subnets. This is stateless: return traffic must be explicitly allowed by rules.
 
 ###  6 - Load-Balance Your VPCs
 
-Deploying DNS-based load balancing solutions such as Route 53 (AWS), Traffic Manager (Azure), or Cloud DNS (GCP) enables efficient distribution of traffic across multiple geographical locations. This enhances the performance and availability of AI applications for users worldwide.
+Deploying DNS-based load balancing solutions such as Route 53 (AWS), Traffic Manager (Azure), or Cloud DNS (GCP) enables efficient traffic distribution across multiple geographical locations. This enhances the performance and availability of AI applications for users worldwide.
 
 ###  7 - Review Cloud Services for Each Provider
 
-Each cloud provider offers a vast array of services spanning Infrastructure as a Service (IaaS), Software as a Service (SaaS), and Platform as a Service (PaaS). AI engineers should thoroughly review the documentation for each provider to leverage their offerings effectively.Examples of providers: 
+Each cloud provider offers a vast array of services spanning Infrastructure as a Service (IaaS), Software as a Service (SaaS), and Platform as a Service (PaaS). AI engineers should thoroughly review the documentation for each provider to leverage their offerings effectively. Examples of providers: 
 
 - AWS Documentation: [AWS Documentation](https://docs.aws.amazon.com/)
 - GCP Documentation: [GCP Documentation](https://cloud.google.com/docs)
@@ -171,9 +173,9 @@ No matter your background, there's a path for you to build practical skills, sta
 
 #### Hardware Requirements
 
-- **Processor:** A modern multi-core CPU (e.g., Intel Core i7/i9 or AMD Ryzen 7/9) is recommended for general tasks. If you're planning to work with deep learning, consider investing in a GPU (e.g., NVIDIA GeForce/RTX or dedicated GPUs like NVIDIA Tesla or AMD Radeon Instinct).
+- **Processor:** A modern multi-core CPU (e.g., Intel Core i7/i9 or AMD Ryzen 7/9) is recommended for general tasks. If you plan to work with deep learning, consider investing in a GPU (e.g., NVIDIA GeForce/RTX or dedicated GPUs like NVIDIA Tesla or AMD Radeon Instinct).
 - **Memory (RAM):** At least 16GB of RAM is necessary, but 32GB or more is highly recommended for larger AI models and datasets.
-- **Storage:** A fast SSD (Solid State Drive) is ideal for your operating system and projects. You might also want a larger HDD (Hard Disk Drive) for storing extensive datasets.
+- **Storage:** A fast SSD (Solid State Drive) is ideal for your operating system and projects. You might also want a larger HDD (Hard Disk Drive) to store extensive datasets.
 
 #### Operating System Options
 
