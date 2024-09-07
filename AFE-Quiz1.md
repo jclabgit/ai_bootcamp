@@ -127,3 +127,11 @@ Here are the quiz questions along with brief explanations for why each answer is
   *Explanation:* This is incorrect; while relevant, this is not the focus of the next module.
 - D) The ethics of AI in video gaming.  
   *Explanation:* This is incorrect; the module will focus on broader AI concepts, not just ethics or video gaming.
+  
+  
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

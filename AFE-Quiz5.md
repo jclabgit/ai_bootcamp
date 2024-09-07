@@ -126,3 +126,9 @@
   *Explanation:* This is incorrect; while RNNs can generate sequences, GANs are specifically noted for creating new, realistic data.
 - D) Support Vector Machines (SVMs).  
   *Explanation:* This is incorrect; SVMs are a type of machine learning model, not a neural network designed for generating data.
+  
+  
+  
+  
+  <a href="README.md">Back To README</a>
+  

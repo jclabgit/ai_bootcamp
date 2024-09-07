@@ -76,13 +76,13 @@
 - Follow pre-print servers like [arXiv](https://arxiv.org).
 
 ### Conferences & Workshops
-- Attend events like NeurIPS, ICML, or specialized AI conferences.
+- Attend events  or specialized AI conferences.
 
 ### Blogs & Newsletters
 - Subscribe to AI-focused publications 
 
 ### Online Communities
-- Participate in forums, social media groups, and discussions on platforms like Reddit.
+- Participate in AI-focused forums, social media groups, and discussions.
 
 
 

@@ -126,3 +126,8 @@
   *Explanation:* This is incorrect; the text highlights the importance of human input, such as asking the right questions and interpreting data.
 - D) AI can function without data if the algorithms are good.  
   *Explanation:* This is incorrect; the text clearly states that data is essential for AI to function effectively.
+  
+  
+  
+  <a href="README.md">Back To README</a>
+  
