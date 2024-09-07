@@ -133,5 +133,5 @@ Here are the quiz questions along with brief explanations for why each answer is
 <a href="README.md">Back To README</a>
 ---
 
-© JayelckCares. All rights reserved.
+© <a href="https://github.com/jclabgit/ai_bootcamp/tree/main">JayelckCares<a>. All rights reserved.
 

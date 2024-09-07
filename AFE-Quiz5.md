@@ -132,5 +132,8 @@
   
 <a href="README.md">Back To README</a>
 ---
+© <a href="https://github.com/jclabgit/ai_bootcamp/tree/main">JayelckCares</a>. All rights reserved.
+
+---
 
 © JayelckCares. All rights reserved.

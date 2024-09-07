@@ -49,4 +49,4 @@ Discover how AI can be a transformative tool in your profession. This book focus
 
 ---
 
-© 2024 JayelckCares. All rights reserved.
+© <a href="https://github.com/jclabgit/ai_bootcamp/tree/main">JayelckCares</a>. All rights reserved.

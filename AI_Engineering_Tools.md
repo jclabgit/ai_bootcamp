@@ -287,4 +287,4 @@ Whether you choose the coding or no-code path, the world of AI is full of possib
 <a href="README.md">Back To README</a>
 ---
 
-© JayelckCares. All rights reserved.
+© <a href="https://github.com/jclabgit/ai_bootcamp/tree/main">JayelckCares</a>. All rights reserved.
