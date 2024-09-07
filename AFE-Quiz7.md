@@ -127,5 +127,7 @@
   *Explanation:* This is incorrect; human oversight remains important, especially in monitoring and refining the model.
   
   
-  <a href="README.md">Back To README</a>
-  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.

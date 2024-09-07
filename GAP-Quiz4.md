@@ -127,3 +127,9 @@ Here are 10 multiple-choice quiz questions based on the "Generative AI Agents" t
   *Explanation:* This is incorrect; the focus is on using AI to address specific challenges, not just basic automation.
 - D) To ensure that AI models never require updates.  
   *Explanation:* This is incorrect; understanding AI applications is about effective use, not avoiding updates.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

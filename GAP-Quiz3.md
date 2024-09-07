@@ -125,3 +125,9 @@
   *Explanation:* This is incorrect; ethical considerations focus on responsible use, not on eliminating all errors.
 - D) To replace human judgment in ethical decision-making.  
   *Explanation:* This is incorrect; human oversight remains crucial in ethical decision-making regarding AI use.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

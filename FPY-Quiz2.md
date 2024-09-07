@@ -126,3 +126,10 @@
   *Explanation:* This is incorrect; the text encourages staying updated with AI's help.
 - D) AI eliminates the need for collaboration with others.  
   *Explanation:* This is incorrect; the text does not suggest that AI replaces collaboration.
+  
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

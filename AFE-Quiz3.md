@@ -129,5 +129,8 @@
   
   
   
-  <a href="README.md">Back To README</a>
+ <a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
   

@@ -125,3 +125,11 @@
   *Explanation:* This is incorrect; strategic thinking remains a crucial human responsibility.
 - D) AI alone is sufficient to solve all complex problems.  
   *Explanation:* This is incorrect; the text stresses the importance of human input in solving complex problems alongside AI.
+  
+  
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

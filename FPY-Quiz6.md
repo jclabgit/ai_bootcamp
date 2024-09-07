@@ -128,3 +128,10 @@
   *Explanation:* This is incorrect; the text suggests that AI is here to stay and will significantly impact careers.
 
 These questions summarize the key points from the text, helping reinforce understanding of how AI can enhance various professional skills and the importance of continuous learning and adaptability.
+
+
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

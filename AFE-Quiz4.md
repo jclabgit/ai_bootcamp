@@ -128,6 +128,7 @@
   *Explanation:* This is incorrect; while AI can control robots, the text focuses on the broader role of human experts in guiding AI's use and development.
   
   
-  
-  <a href="README.md">Back To README</a>
-  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.

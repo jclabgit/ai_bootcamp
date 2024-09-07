@@ -126,3 +126,9 @@
   *Explanation:* This is incorrect; the text encourages continuous adaptation and learning alongside AI.
 - D) AI ensures that all decisions are correct without further analysis.  
   *Explanation:* This is incorrect; the text emphasizes the importance of ongoing analysis and judgment, even when using AI.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

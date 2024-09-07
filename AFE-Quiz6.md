@@ -128,5 +128,7 @@
   *Explanation:* This is incorrect; the purpose of reinforcement learning is to adapt and improve the AI's behavior, not avoid changes.
   
   
-  <a href="README.md">Back To README</a>
-  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.

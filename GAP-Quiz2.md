@@ -126,3 +126,9 @@
   *Explanation:* This is incorrect; prompt engineering is about crafting unique and effective prompts, not standardizing AI models.
 - D) To reduce the complexity of prompt engineering.  
   *Explanation:* This is incorrect; staying updated may involve learning more complex techniques, not necessarily simplifying the process.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

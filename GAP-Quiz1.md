@@ -125,3 +125,9 @@
   *Explanation:* This is incorrect; deep learning frameworks are still necessary, even with GPUs and TPUs.
 - D) They are only used for storing data.  
   *Explanation:* This is incorrect; GPUs and TPUs are used for processing data, not just for storage.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

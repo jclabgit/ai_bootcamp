@@ -125,3 +125,9 @@
   *Explanation:* This is incorrect; the text encourages staying updated and integrating new technologies.
 - D) AI eliminates the need for collaboration in your profession.  
   *Explanation:* This is incorrect; the text does not suggest that AI eliminates collaboration.
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+

@@ -125,3 +125,11 @@
   *Explanation:* This is incorrect; the text supports using AI to enhance collaboration, not eliminate it.
 - D) AI eliminates the need for ongoing learning and adaptation in communication skills.  
   *Explanation:* This is incorrect; the text encourages continuous learning and adapting communication strategies, even when using AI.
+  
+  
+  
+<a href="README.md">Back To README</a>
+---
+
+© JayelckCares. All rights reserved.
+
